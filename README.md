@@ -5,4 +5,4 @@ React Movie Database App is a comprehensive movie browsing platform developed us
 
 You can test the application by registering an account at https://www.themoviedb.org/?language=en-US. (They use the same username and password.)
 
-Tools Used: HTML, CSS, JavaScript, React, Redux, Material UI, styledComponent, axios, Git
+Tools Used: HTML, CSS, JavaScript, React, react-router-dom, Redux, redux-thunk, Material UI, styledComponent, axios, Git
