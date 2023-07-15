@@ -1,3 +1,4 @@
 # React-Movie-Database-App
 React Movie Database App is a comprehensive movie browsing platform developed using React. It features user authentication, allowing users to rate, and mark movies as favorite. With a clean navigation bar including 'Home', 'Favorites', and 'Rated' sections, the app dynamically fetches and displays movies in various categories such as 'Now Playing', 'Top Rated', 'Popular', and 'Upcoming'. The robust functionality further extends to caching previously viewed data for faster revisits, individual movie details presentation, and a user-specific rating system. Leveraging advanced API calls, this application offers an immersive and personalized movie exploration experience.
+
 You can test the application by registering an account at https://www.themoviedb.org/?language=en-US. (They use the same username and password.)
